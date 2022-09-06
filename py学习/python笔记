@@ -1,0 +1,16 @@
+python
+print (‘hello, world!’) ## print 类类似打印
+print ('你好，你好')
+
+import turtle
+
+turtle.pensize(4) # 粗细
+turtle.pencolor('red') # 颜色
+turtle.forward(200) # 长度
+turtle.right(90) # 角度
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.mainloop()
